@@ -2,6 +2,14 @@
 
 PowerShell-based tab completion module for the [Scoop](https://github.com/ScoopInstaller/Scoop) Windows package manager. Works with all PowerShell versions.
 
+## Demo
+
+See ScoopCompletion in action:
+
+<video src="./ScoopCompletionDemo.mp4" controls muted playsinline width="100%">
+  <img src="./ScoopCompletionDemo.gif" alt="ScoopCompletion demo">
+</video>
+
 ## Requirements
 
 * [Scoop](https://github.com/ScoopInstaller/Scoop)
