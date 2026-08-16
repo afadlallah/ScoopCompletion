@@ -6,9 +6,7 @@ PowerShell-based tab completion module for the [Scoop](https://github.com/ScoopI
 
 See ScoopCompletion in action:
 
-<video src="./ScoopCompletionDemo.mp4" controls muted playsinline width="100%">
-  <img src="./ScoopCompletionDemo.gif" alt="ScoopCompletion demo">
-</video>
+<img src="./ScoopCompletionDemo.gif" alt="ScoopCompletion demo" width="100%">
 
 ## Requirements
 
